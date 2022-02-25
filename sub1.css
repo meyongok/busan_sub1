@@ -168,14 +168,15 @@ p{ font-size: 16px;  text-align: left; }
 
 #footer{clear: both;
   background:#522b19;
-  height:200px;
-  padding:30px 0;
+  height:170px;
+  
 }
 
  
 #footer_inner{
   width:1320px;
   margin:0 auto;
+  padding-top: 30px;
 }
 
 .copyright ul li{
@@ -191,7 +192,7 @@ p{ font-size: 16px;  text-align: left; }
 }
 
 .copyright p{
-  padding-top:30px;
+  padding-top:20px;
   clear:both;
   color:#ccc;
 }
@@ -212,4 +213,4 @@ p{ font-size: 16px;  text-align: left; }
 .sns{
   float:right;
 }
-#footer_inner p{ clear: both; text-align: left; color: #fff; padding: 30px 0;}
+#footer_inner p{ clear: both; text-align: left; color: #fff; padding: 20px 0;}
